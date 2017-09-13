@@ -1,0 +1,2 @@
+C:\Workhome\xamarinHome\LocatorXamarin\LocatorXamarin\LocatorXamarin.UWP\LocatorXamarin.UWP.csproj;x86
+C:\Workhome\xamarinHome\LocatorXamarin\LocatorXamarin\LocatorXamarin\LocatorXamarin.csproj;neutral
