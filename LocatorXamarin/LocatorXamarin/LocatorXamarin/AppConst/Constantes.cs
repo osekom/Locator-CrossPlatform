@@ -9,6 +9,8 @@ namespace LocatorXamarin.AppConst
     public class Constantes
     {
         // establecer el Link URL de tu seridor Locator
+        //URL prueba: http://locator.3tech.com.ar/login.php
+
         public static string URL = "";
     }
 }
