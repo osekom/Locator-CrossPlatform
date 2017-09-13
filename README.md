@@ -4,6 +4,8 @@
 
 App CrossPlatform hecho con Xamarin Forms modificando el renderizado del webview con webkit
 
+Plataforma de Rastreo satelital del siguiente repositorio [Locator](https://github.com/tronsoftware/LOCATOR)
+
 # Screen-resultado
 [![N|Android](https://github.com/osekom/Locator-CrossPlatform/blob/master/Screen/LocatorXamarinAndroid.png)](https://github.com/osekom/Locator-CrossPlatform/blob/master/Screen/LocatorXamarinAndroid.png)
 [![N|Android](https://github.com/osekom/Locator-CrossPlatform/blob/master/Screen/LocatorXamarinUWP.png)](https://github.com/osekom/Locator-CrossPlatform/blob/master/Screen/LocatorXamarinUWP.png)
