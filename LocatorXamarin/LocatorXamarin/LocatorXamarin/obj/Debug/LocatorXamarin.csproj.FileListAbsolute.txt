@@ -1,0 +1,16 @@
+C:\Users\Autorenova\Documents\GitHub\Locator-CrossPlatform\LocatorXamarin\LocatorXamarin\LocatorXamarin\bin\Debug\LocatorXamarin.dll
+C:\Users\Autorenova\Documents\GitHub\Locator-CrossPlatform\LocatorXamarin\LocatorXamarin\LocatorXamarin\bin\Debug\LocatorXamarin.pdb
+C:\Users\Autorenova\Documents\GitHub\Locator-CrossPlatform\LocatorXamarin\LocatorXamarin\LocatorXamarin\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Autorenova\Documents\GitHub\Locator-CrossPlatform\LocatorXamarin\LocatorXamarin\LocatorXamarin\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Autorenova\Documents\GitHub\Locator-CrossPlatform\LocatorXamarin\LocatorXamarin\LocatorXamarin\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Autorenova\Documents\GitHub\Locator-CrossPlatform\LocatorXamarin\LocatorXamarin\LocatorXamarin\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Autorenova\Documents\GitHub\Locator-CrossPlatform\LocatorXamarin\LocatorXamarin\LocatorXamarin\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Autorenova\Documents\GitHub\Locator-CrossPlatform\LocatorXamarin\LocatorXamarin\LocatorXamarin\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Autorenova\Documents\GitHub\Locator-CrossPlatform\LocatorXamarin\LocatorXamarin\LocatorXamarin\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Autorenova\Documents\GitHub\Locator-CrossPlatform\LocatorXamarin\LocatorXamarin\LocatorXamarin\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Autorenova\Documents\GitHub\Locator-CrossPlatform\LocatorXamarin\LocatorXamarin\LocatorXamarin\obj\Debug\LocatorXamarin.csprojResolveAssemblyReference.cache
+C:\Users\Autorenova\Documents\GitHub\Locator-CrossPlatform\LocatorXamarin\LocatorXamarin\LocatorXamarin\obj\Debug\LocatorXamarin.csproj.CoreCompileInputs.cache
+C:\Users\Autorenova\Documents\GitHub\Locator-CrossPlatform\LocatorXamarin\LocatorXamarin\LocatorXamarin\obj\Debug\LocatorXamarin.App.xaml.g.cs
+C:\Users\Autorenova\Documents\GitHub\Locator-CrossPlatform\LocatorXamarin\LocatorXamarin\LocatorXamarin\obj\Debug\LocatorXamarin.MainPageLocator.xaml.g.cs
+C:\Users\Autorenova\Documents\GitHub\Locator-CrossPlatform\LocatorXamarin\LocatorXamarin\LocatorXamarin\obj\Debug\LocatorXamarin.dll
+C:\Users\Autorenova\Documents\GitHub\Locator-CrossPlatform\LocatorXamarin\LocatorXamarin\LocatorXamarin\obj\Debug\LocatorXamarin.pdb

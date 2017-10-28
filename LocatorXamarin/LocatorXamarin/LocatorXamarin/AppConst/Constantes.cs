@@ -11,6 +11,6 @@ namespace LocatorXamarin.AppConst
         // establecer el Link URL de tu seridor Locator
         //URL prueba: http://locator.3tech.com.ar/login.php
 
-        public static string URL = "";
+        public static string URL = "http://locator.3tech.com.ar/login.php";
     }
 }

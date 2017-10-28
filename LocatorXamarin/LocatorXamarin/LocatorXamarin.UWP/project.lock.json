@@ -22263,12 +22263,12 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Workhome\\xamarinHome\\LocatorXamarin\\LocatorXamarin\\LocatorXamarin.UWP\\LocatorXamarin.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\Autorenova\\Documents\\GitHub\\Locator-CrossPlatform\\LocatorXamarin\\LocatorXamarin\\LocatorXamarin.UWP\\LocatorXamarin.UWP.csproj",
       "projectName": "LocatorXamarin.UWP",
-      "projectPath": "C:\\Workhome\\xamarinHome\\LocatorXamarin\\LocatorXamarin\\LocatorXamarin.UWP\\LocatorXamarin.UWP.csproj",
-      "projectJsonPath": "C:\\Workhome\\xamarinHome\\LocatorXamarin\\LocatorXamarin\\LocatorXamarin.UWP\\project.json",
+      "projectPath": "C:\\Users\\Autorenova\\Documents\\GitHub\\Locator-CrossPlatform\\LocatorXamarin\\LocatorXamarin\\LocatorXamarin.UWP\\LocatorXamarin.UWP.csproj",
+      "projectJsonPath": "C:\\Users\\Autorenova\\Documents\\GitHub\\Locator-CrossPlatform\\LocatorXamarin\\LocatorXamarin\\LocatorXamarin.UWP\\project.json",
       "packagesPath": "C:\\Users\\Autorenova\\.nuget\\packages\\",
-      "outputPath": "C:\\Workhome\\xamarinHome\\LocatorXamarin\\LocatorXamarin\\LocatorXamarin.UWP\\obj\\",
+      "outputPath": "C:\\Users\\Autorenova\\Documents\\GitHub\\Locator-CrossPlatform\\LocatorXamarin\\LocatorXamarin\\LocatorXamarin.UWP\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
         "C:\\Users\\Autorenova\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22276,14 +22276,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\Autorenova\\AppData\\Local\\Esri\\NuGet": {},
-        "http://nuget.uxdivers.com/grial": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "uap10.0.10586": {
           "projectReferences": {
-            "C:\\Workhome\\xamarinHome\\LocatorXamarin\\LocatorXamarin\\LocatorXamarin\\LocatorXamarin.csproj": {
-              "projectPath": "C:\\Workhome\\xamarinHome\\LocatorXamarin\\LocatorXamarin\\LocatorXamarin\\LocatorXamarin.csproj"
+            "C:\\Users\\Autorenova\\Documents\\GitHub\\Locator-CrossPlatform\\LocatorXamarin\\LocatorXamarin\\LocatorXamarin\\LocatorXamarin.csproj": {
+              "projectPath": "C:\\Users\\Autorenova\\Documents\\GitHub\\Locator-CrossPlatform\\LocatorXamarin\\LocatorXamarin\\LocatorXamarin\\LocatorXamarin.csproj"
             }
           }
         }
